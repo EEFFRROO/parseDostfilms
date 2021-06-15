@@ -1,0 +1,49 @@
+td {
+    border: 1px solid;
+    background: cornsilk;
+}
+
+th {
+    border: 1px solid;
+    background: burlywood;
+}
+
+button {
+    border: 2px solid cornsilk;
+    border-radius: 5%;
+    background: bisque;
+    padding: 10px;
+    /* padding: 10px; */
+}
+
+button:hover {
+    border-radius: 7%;
+    background:  rgb(250, 208, 146);
+    border: 2px solid blanchedalmond;
+}
+
+select {
+    padding: 10px;
+    border: 2px solid cornsilk;
+    border-radius: 5%;
+    background: lightgrey;
+}
+
+select:hover {
+    border-radius: 7%;
+    background: darkgray;
+    border: 2px solid blanchedalmond;
+}
+
+/* #comparedGenres {
+
+} */
+
+.comparedInfo {
+    background: aliceblue;
+    float: left;
+    /* display: table-cell; */
+    padding: 35px;
+    /* margin-right: 50px; */
+    /* margin: 670; */
+}
